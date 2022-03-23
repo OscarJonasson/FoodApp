@@ -1,0 +1,19 @@
+{
+  "name": "foodapi",
+  "version": "1.0.0",
+  "description": "Calories",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "chart.js": "^3.7.1",
+    "snackbar": "^1.1.0"
+  }
+}
